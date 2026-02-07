@@ -22,7 +22,7 @@ Saya adalah seorang **Network Engineer & System Administrator** yang antusias me
 ---
 
 ### 🔭 Apa yang sedang saya kerjakan?
-Saat ini saya sedang fokus menyelesaikan tugas akhir, sambil terus bereksperimen dengan *home lab*, konfigurasi server, dan pengembangan web.
+Kok nanya saya juga gatau, tapi bereksperimen dengan *home lab*, konfigurasi server, dan pengembangan web adalah hobi saya.
 
 Jangan ragu untuk menjelajahi repositori saya atau menyapa!
 
