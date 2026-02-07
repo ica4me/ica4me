@@ -13,6 +13,6 @@ Saat ini saya sedang fokus menyelesaikan tugas akhir, sambil terus bereksperimen
 
 Jangan ragu untuk menjelajahi repositori saya atau menyapa!
 
-<a href="mailto:EMAIL_ANDA@GMAIL.COM">Hubungi Saya</a>
+<a href="mailto:unpwahyu@gmail.com">Hubungi Saya</a>
 
 </div>
