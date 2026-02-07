@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ica4me/ica4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo, Selamat Datang! 👋
 
-Here are some ideas to get you started:
+Terima kasih sudah mampir ke profil saya.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya adalah seorang **Network Engineer & System Administrator** yang antusias membangun infrastruktur jaringan yang handal dan mengelola server Linux. Saya gemar mengoprek segala hal tentang **Virtualisasi, Routing (MikroTik/Arista), dan Keamanan Jaringan**.
+
+---
+
+### 🔭 Apa yang sedang saya kerjakan?
+Saat ini saya sedang fokus menyelesaikan tugas akhir, sambil terus bereksperimen dengan *home lab*, konfigurasi server, dan pengembangan web.
+
+Jangan ragu untuk menjelajahi repositori saya atau menyapa!
+
+<a href="mailto:EMAIL_ANDA@GMAIL.COM">Hubungi Saya</a>
+
+</div>
