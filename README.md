@@ -4,7 +4,7 @@
 
 # Halo, Selamat Datang! 👋
 
-### Belajar Linux, Cloud, Network, Virtualization, dan Infrastructure
+### Lagi belajar seputar Linux, Network, Cloud, Virtualization, dan Infrastructure
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
@@ -53,41 +53,28 @@
 
 Terima kasih sudah mampir ke profil saya.
 
-Saya sedang belajar dan mengeksplorasi dunia **Linux Server, jaringan, cloud, virtualisasi, dan infrastruktur**. Saat ini saya banyak mencoba memahami bagaimana sebuah sistem dibangun, dikonfigurasi, dijalankan, dan diperbaiki ketika ada masalah.
+Saya masih terus belajar dan bereksperimen di dunia **Network Engineering** dan **System Administration**.  
+Saat ini saya banyak mengulik hal-hal seputar **Linux Server, jaringan, private cloud, virtualisasi, VPN, firewall, automation**, dan sedikit pengembangan web.
 
-Saya belum menganggap diri saya ahli, tapi saya senang belajar lewat praktik langsung, terutama melalui eksperimen kecil, home lab, dokumentasi, dan mencoba ulang konfigurasi sampai benar-benar paham.
-
-Beberapa hal yang menarik buat saya:
-
-- Linux server dan administrasi sistem dasar
-- Jaringan, routing, switching, VPN, dan firewall
-- Virtualisasi menggunakan Proxmox, KVM, dan QEMU
-- Private cloud dan OpenStack
-- Storage dan high availability seperti Ceph
-- Automasi sederhana dengan Bash dan Ansible
-- Monitoring, troubleshooting, dan dokumentasi teknis
-- Sedikit pengembangan web dengan PHP dan CodeIgniter
-
-Buat saya, infrastruktur yang menarik bukan hanya yang bisa jalan, tapi juga yang bisa dipahami, dicatat, diulang, dan diperbaiki pelan-pelan.
+Buat saya, belajar infrastruktur itu menarik karena bukan cuma soal membuat sistem bisa jalan, tapi juga memahami kenapa sistem itu jalan, bagaimana merawatnya, dan bagaimana memperbaikinya saat bermasalah.
 
 ---
 
-### 🔭 Apa yang sedang saya kerjakan?
+### 🔭 Yang sedang saya pelajari
 
-Jujur, kadang saya juga masih cari-cari arah 😄  
-Tapi biasanya tidak jauh dari eksperimen **home lab**, konfigurasi server, jaringan, virtualisasi, OpenStack, monitoring, dan dokumentasi hasil belajar.
+Kadang juga masih bingung mau fokus ke mana 😄  
+Tapi biasanya tidak jauh dari eksperimen **home lab**, server, jaringan, virtualisasi, dan dokumentasi teknis.
 
-Beberapa hal yang sedang atau sering saya coba:
+Beberapa hal yang sedang sering saya coba:
 
-- Membangun lab kecil untuk belajar **OpenStack / private cloud**
-- Eksperimen dengan **Proxmox, KVM, Ceph, dan high availability**
-- Belajar automasi konfigurasi server secara bertahap
-- Membuat dokumentasi agar konfigurasi tidak hanya tersimpan di kepala
-- Mencoba memahami error, bukan sekadar mencari perintah yang berhasil
+- Membangun lab **OpenStack / private cloud**
+- Belajar **Proxmox, KVM, Ceph, dan high availability**
+- Konfigurasi dasar server Linux dan jaringan
+- Automasi sederhana dengan Bash atau Ansible
+- Menulis dokumentasi supaya konfigurasi tidak cuma tersimpan di kepala
 
-Repositori di sini mungkin belum sempurna, tapi saya gunakan sebagai tempat belajar, mencatat proses, dan menyimpan percobaan yang pernah saya lakukan.
-
-Silakan lihat-lihat repositori saya. Kalau ada saran, koreksi, atau ingin berdiskusi, saya sangat terbuka.
+Silakan mampir ke repositori saya.  
+Kalau ada masukan atau ingin berdiskusi, boleh banget menyapa.
 
 <a href="mailto:unpwahyu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
