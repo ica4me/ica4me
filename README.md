@@ -25,15 +25,12 @@
 <br/>
 
 <img src="https://img.shields.io/badge/MikroTik-BD382D?style=for-the-badge&logo=mikrotik&logoColor=white" />
-<img src="https://img.shields.io/badge/Arista-1D4ED8?style=for-the-badge&logo=arista&logoColor=white" />
 <img src="https://img.shields.io/badge/Routing-0F766E?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Switching-374151?style=for-the-badge&logo=cisco&logoColor=white" />
 <br/>
 
 <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
 <img src="https://img.shields.io/badge/VPN-1E40AF?style=for-the-badge&logo=openvpn&logoColor=white" />
-<img src="https://img.shields.io/badge/Firewall-DC2626?style=for-the-badge&logo=fortinet&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Security-7F1D1D?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <br/>
 
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
@@ -43,15 +40,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Container-0F172A?style=for-the-badge&logo=containerd&logoColor=white" />
 <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" />
-<br/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Monitoring-0891B2?style=for-the-badge&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/Observability-4338CA?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 <br/>
 
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -63,24 +53,22 @@
 
 Terima kasih sudah mampir ke profil saya.
 
-Saya adalah seorang **Network Engineer & System Administrator** yang antusias membangun infrastruktur jaringan yang handal, mengelola server Linux, dan bereksperimen dengan teknologi cloud serta virtualisasi.
+Saya adalah seorang **Network Engineer & System Administrator** yang antusias membangun infrastruktur jaringan pemula, Explorasi belajar mengelola server Linux, dan bereksperimen dengan teknologi cloud serta virtualisasi.
 
-Saya cukup sering mengoprek hal-hal seputar **Linux Server, Private Cloud, OpenStack, Proxmox, Routing, Switching, VPN, Firewall, High Availability, Automation, dan Monitoring**. Buat saya, infrastruktur yang menarik bukan cuma yang “jalan”, tapi yang bisa dipahami, diulang, dirawat, dan diperbaiki ketika ada masalah.
+Saya cukup tertarik mengoprek hal-hal seputar **Linux Server, Private Cloud, OpenStack, Proxmox, Routing, Switching, VPN, Firewall, High Availability, Automation, dan Monitoring**. Buat saya, infrastruktur yang menarik bukan cuma yang “jalan”, tapi yang bisa dipahami, diulang, dirawat, dan diperbaiki ketika ada masalah.
 
 ---
 
 ### 🔭 Apa yang sedang saya kerjakan?
 
 Kok nanya saya juga gatau 😄  
-Tapi biasanya tidak jauh dari eksperimen **home lab**, deployment server, automasi Ansible, konfigurasi jaringan, virtualisasi, OpenStack, monitoring, dan sedikit pengembangan web.
+Tapi biasanya tidak jauh dari eksperimen **home lab**, deployment server, konfigurasi jaringan, virtualisasi, OpenStack, monitoring, dan sedikit pengembangan web.
 
 Beberapa area yang lagi sering saya sentuh:
 
 - Membangun lab **OpenStack / private cloud** dari awal
 - Eksperimen **Proxmox, KVM, Ceph, dan high availability**
-- Automasi konfigurasi server dengan **Ansible dan Bash**
-- Routing, switching, VLAN, VPN, dan firewall
-- Monitoring infrastruktur dengan **Prometheus dan Grafana**
+- Automasi konfigurasi server basic
 - Dokumentasi teknis agar konfigurasi tidak cuma tersimpan di kepala
 
 Jangan ragu untuk menjelajahi repositori saya atau menyapa!
