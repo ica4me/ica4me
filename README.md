@@ -4,7 +4,7 @@
 
 # Halo, Selamat Datang! 👋
 
-### Linux, Cloud, Network, Virtualization, and Infrastructure Enthusiast
+### Belajar Linux, Cloud, Network, Virtualization, dan Infrastructure
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
@@ -53,25 +53,41 @@
 
 Terima kasih sudah mampir ke profil saya.
 
-Saya adalah seorang **Network Engineer & System Administrator** yang antusias membangun infrastruktur jaringan pemula, Explorasi belajar mengelola server Linux, dan bereksperimen dengan teknologi cloud serta virtualisasi.
+Saya sedang belajar dan mengeksplorasi dunia **Linux Server, jaringan, cloud, virtualisasi, dan infrastruktur**. Saat ini saya banyak mencoba memahami bagaimana sebuah sistem dibangun, dikonfigurasi, dijalankan, dan diperbaiki ketika ada masalah.
 
-Saya cukup tertarik mengoprek hal-hal seputar **Linux Server, Private Cloud, OpenStack, Proxmox, Routing, Switching, VPN, Firewall, High Availability, Automation, dan Monitoring**. Buat saya, infrastruktur yang menarik bukan cuma yang “jalan”, tapi yang bisa dipahami, diulang, dirawat, dan diperbaiki ketika ada masalah.
+Saya belum menganggap diri saya ahli, tapi saya senang belajar lewat praktik langsung, terutama melalui eksperimen kecil, home lab, dokumentasi, dan mencoba ulang konfigurasi sampai benar-benar paham.
+
+Beberapa hal yang menarik buat saya:
+
+- Linux server dan administrasi sistem dasar
+- Jaringan, routing, switching, VPN, dan firewall
+- Virtualisasi menggunakan Proxmox, KVM, dan QEMU
+- Private cloud dan OpenStack
+- Storage dan high availability seperti Ceph
+- Automasi sederhana dengan Bash dan Ansible
+- Monitoring, troubleshooting, dan dokumentasi teknis
+- Sedikit pengembangan web dengan PHP dan CodeIgniter
+
+Buat saya, infrastruktur yang menarik bukan hanya yang bisa jalan, tapi juga yang bisa dipahami, dicatat, diulang, dan diperbaiki pelan-pelan.
 
 ---
 
 ### 🔭 Apa yang sedang saya kerjakan?
 
-Kok nanya saya juga gatau 😄  
-Tapi biasanya tidak jauh dari eksperimen **home lab**, deployment server, konfigurasi jaringan, virtualisasi, OpenStack, monitoring, dan sedikit pengembangan web.
+Jujur, kadang saya juga masih cari-cari arah 😄  
+Tapi biasanya tidak jauh dari eksperimen **home lab**, konfigurasi server, jaringan, virtualisasi, OpenStack, monitoring, dan dokumentasi hasil belajar.
 
-Beberapa area yang lagi sering saya sentuh:
+Beberapa hal yang sedang atau sering saya coba:
 
-- Membangun lab **OpenStack / private cloud** dari awal
-- Eksperimen **Proxmox, KVM, Ceph, dan high availability**
-- Automasi konfigurasi server basic
-- Dokumentasi teknis agar konfigurasi tidak cuma tersimpan di kepala
+- Membangun lab kecil untuk belajar **OpenStack / private cloud**
+- Eksperimen dengan **Proxmox, KVM, Ceph, dan high availability**
+- Belajar automasi konfigurasi server secara bertahap
+- Membuat dokumentasi agar konfigurasi tidak hanya tersimpan di kepala
+- Mencoba memahami error, bukan sekadar mencari perintah yang berhasil
 
-Jangan ragu untuk menjelajahi repositori saya atau menyapa!
+Repositori di sini mungkin belum sempurna, tapi saya gunakan sebagai tempat belajar, mencatat proses, dan menyimpan percobaan yang pernah saya lakukan.
+
+Silakan lihat-lihat repositori saya. Kalau ada saran, koreksi, atau ingin berdiskusi, saya sangat terbuka.
 
 <a href="mailto:unpwahyu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
